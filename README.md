@@ -85,8 +85,6 @@ linkedin-post-generator/
 │   └── test_preprocess.py      # Extraction, parsing, & retry unit tests
 ├── pytest.ini                  # Pytest configuration
 ├── requirements.txt            # Python dependencies (unpinned)
-├── .env.example                # Environment variable template
-├── .gitignore                  # Git ignore rules
 └── README.md                   # Documentation
 ```
 
@@ -109,9 +107,10 @@ pip install -r requirements.txt
 ```
 
 ### 3. Environment Configuration
-Create a `.env` file from `.env.example`:
-```bash
-cp .env.example .env
+Create a local `.env` file (never committed to git):
+```ini
+GROQ_API_KEY=your_groq_api_key_here
+GROQ_MODEL=openai/gpt-oss-120b
 ```
 Populate `.env` with your Groq credentials:
 ```ini
