@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Solved 0 problems in my first LeetCode contest.\nToday I solved all 4 within 45 minutes.\nConsistent pattern recognition beats random grinding every single time.\nWhat topic in DSA are you mastering this week?",
+    "engagement": 520,
+    "line_count": 4,
+    "language": "English",
+    "tags": [
+      "DSA Practice",
+      "Motivation"
+    ]
+  },
+  {
+    "text": "Your resume doesn't need 10 buzzwords per sentence.\nRecruiters spend 6 seconds reading your profile.\nHighlight your top 2 impact metrics with real numbers.\nClean formatting wins over fancy templates every single day.\nIs your latest project impact quantified yet?",
+    "engagement": 410,
+    "line_count": 5,
+    "language": "English",
+    "tags": [
+      "Resume Tips",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Rejection emails used to ruin my entire weekend.\nAfter 40 rejections, I started treating each one as free interview feedback.\nThe 41st company gave me my dream offer.\nDon't quit right before the breakthrough.",
+    "engagement": 780,
+    "line_count": 4,
+    "language": "English",
+    "tags": [
+      "Motivation",
+      "Placements"
+    ]
+  },
+  {
+    "text": "College placement season feels like an emotional rollercoaster.\nOne friend gets an offer on Day 1, while you are still waiting for Day 2 shortlists.\nComparison is the fastest way to lose focus during hiring season.\nYour journey runs on your own timeline.\nStay focused on the next round.",
+    "engagement": 640,
+    "line_count": 5,
+    "language": "English",
+    "tags": [
+      "Placements",
+      "Motivation"
+    ]
+  },
+  {
+    "text": "Campus placement ke beech burnout hona bilkul normal hai.\nEk week pehle I was so overwhelmed ki DSA ka basic code bhi block ho raha tha.\nEk pura din laptop band karke walk pe gaya and recharged.\nTake a break before your brain forces you to.",
+    "engagement": 380,
+    "line_count": 4,
+    "language": "Hinglish",
+    "tags": [
+      "Mental Health",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Internship hunting me cold emailing actually kaam karti hai.\nMaine 50 personalized emails bheje the founders ko with my portfolio link.\n3 interviews schedule hue aur 1 offer finalize ho gaya.\nKab start kar rahe ho apna outreach?",
+    "engagement": 490,
+    "line_count": 4,
+    "language": "Hinglish",
+    "tags": [
+      "Placements",
+      "Motivation"
+    ]
+  },
+  {
+    "text": "Clone apps bana kar GitHub pe daalna band karo.\nMaine ek simple attendance tracker banaya tha apne college society ke liye.\nRecruiter ne interview ke pure 20 minutes bas usi project pe baat ki.\nReal problems solve karne wale projects hi standout karte hain.\nWhat problem are you solving right now?",
+    "engagement": 610,
+    "line_count": 5,
+    "language": "Hinglish",
+    "tags": [
+      "Projects",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Stop building YouTube clone number 47.\nBuild a tool your batchmates actually use every day.\nReal user feedback teaches you more than any tutorial ever will.\nWhat's the last tool you deployed to production?",
+    "engagement": 350,
+    "line_count": 4,
+    "language": "English",
+    "tags": [
+      "Projects",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Dynamic Programming felt like pure magic until I changed my study technique.\nLast semester, I kept memorizing solutions on LeetCode.\nIn actual mock interviews, I froze whenever the problem changed slightly.\nThen I spent 2 weeks just drawing recursion trees on paper.\nOnce state transitions clicked visually, memoization became second nature.\nNow DP is actually my strongest topic in interviews.\nUnderstand the recurrence before touching the keyboard.\nWhich DSA topic gives you the hardest time?",
+    "engagement": 820,
+    "line_count": 8,
+    "language": "English",
+    "tags": [
+      "DSA Practice",
+      "Placements"
+    ]
+  },
+  {
+    "text": "I reviewed 30 resumes of my juniors yesterday.\n80% made the exact same mistake on their project section.\nThey listed libraries used instead of what they actually built.\n'Used React, Node, MongoDB' tells the interviewer nothing about your engineering choices.\nInstead write: 'Engineered a real-time messaging pipeline handling 500 concurrent connections'.\nAction verbs and measurable results grab attention immediately.\nDoes your resume explain the 'why' behind your tech stack?",
+    "engagement": 730,
+    "line_count": 7,
+    "language": "English",
+    "tags": [
+      "Resume Tips",
+      "Placements"
+    ]
+  },
+  {
+    "text": "The final round of my dream placement interview came down to one question.\n'Tell me about a time your project crashed and how you debugged it.'\nI didn't give a textbook answer or blame external APIs.\nI walked the interviewer through a memory leak I caused during local testing.\nI explained the log analysis, the heap dump, and the patch I pushed at 2 AM.\nHe smiled and said: 'I wanted to see how you think under pressure.'\nHonesty and technical maturity win interviews faster than scripted answers.\nWhat is your go-to debugging war story?",
+    "engagement": 890,
+    "line_count": 8,
+    "language": "English",
+    "tags": [
+      "Placements",
+      "Motivation"
+    ]
+  },
+  {
+    "text": "My first technical internship interview was an absolute disaster.\nI spent 20 minutes trying to optimize a hash map solution that was already O(N).\nThe interviewer asked me to trace the edge cases, and I got stuck on null inputs.\nWalking out of the room, I felt completely defeated.\nInstead of sulking, I wrote down every single question and reviewed my gaps that evening.\nTwo months later, I cleared the off-campus internship round at a top product firm.\nEvery failed interview is a tailored syllabus for your next one.\nHow do you track your interview mistakes?",
+    "engagement": 680,
+    "line_count": 8,
+    "language": "English",
+    "tags": [
+      "Placements",
+      "Motivation"
+    ]
+  },
+  {
+    "text": "Placement season will test your patience more than your technical skills.\nYou will see peers announce 6-figure packages while your inbox is quiet.\nIt's tempting to spend 14 hours a day staring at LeetCode out of anxiety.\nLast month, doing that led me straight to severe sleep deprivation and brain fog.\nI forced myself to set a hard cutoff at 10 PM and exercise for 30 minutes daily.\nMy problem-solving speed actually improved when my mind was well rested.\nTaking care of your mental health is a placement prep strategy, not a luxury.\nHave you taken a proper break today?",
+    "engagement": 750,
+    "line_count": 8,
+    "language": "English",
+    "tags": [
+      "Mental Health",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Graphs dekh kar pehle mujhe panic attack jaisa lagta tha.\nAdjacency list banate hi recursion me infinite loop ho jata tha.\nFir maine decide kiya ki no more shortcut solutions.\nHar problem ke liye pehle notebook me BFS and DFS ka dry run shuru kiya.\nJab queue aur visited array ka flow samajh aya, tab code likhna easy ho gaya.\nWithin 3 weeks, LeetCode Medium graph problems solve hone lage.\nConsistency se difficult concepts bhi simple ban jate hain.\nAapka sabse favorite graph algorithm kaunsa hai?",
+    "engagement": 560,
+    "line_count": 8,
+    "language": "Hinglish",
+    "tags": [
+      "DSA Practice",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Mock interviews ko lightly lena band kardo dosto.\nPichle mahine maine apne senior ke sath ek strict mock interview conduct kiya.\nResume pe jo 2 saal purana project likha tha, unhone usi ke architecture pe drill kiya.\nMujhe realize hua ki mujhe khud apne database schema ke reasons yaad nahi the.\nUs ek mock interview ne meri actual campus drive bacha li.\nNever enter the placement hall without at least 3 rigorous peer mocks.\nKitne mock interviews diye hain aapne ab tak?",
+    "engagement": 480,
+    "line_count": 7,
+    "language": "Hinglish",
+    "tags": [
+      "Placements",
+      "Resume Tips"
+    ]
+  },
+  {
+    "text": "Tier-3 college se product based company target karna intimidating lag sakta hai.\nOn-campus companies kam aati hain aur off-campus me competition bohot zyada hota hai.\nLekin jab maine open source me contribute karna aur projects live host karna shuru kiya,\ntab recruiters ne khud reach out karna start kiya.\nCollege tag matters in the beginning, but your public proof of work matters forever.\nFocus on building undeniable skills that speak for themselves.\nAaj aapne apne portfolio ke liye kya banaya?",
+    "engagement": 690,
+    "line_count": 7,
+    "language": "Hinglish",
+    "tags": [
+      "Placements",
+      "Projects"
+    ]
+  },
+  {
+    "text": "The difference between getting placed and staying unplaced is often just endurance.\nIn August, my batch started with 200 excited students solving daily DSA problems.\nBy October, only about 30 students were still submitting solutions consistently.\nEveryone has high motivation in week 1 when placements seem far away.\nThe winners are those who show up on day 60 when motivation has completely dried up.\nDiscipline keeps you writing code when inspiration is absent.\nStay in the game even on the days you don't feel like coding.\nAre you showing up today?",
+    "engagement": 810,
+    "line_count": 8,
+    "language": "English",
+    "tags": [
+      "DSA Practice",
+      "Motivation"
+    ]
+  },
+  {
+    "text": "Here is the exact 3-step framework I used to crack 250+ LeetCode problems without burnout.\nStep 1: Never jump straight to the code editor.\nSpend the first 10 minutes writing out test cases on paper.\nAlways include edge cases like empty arrays and duplicate elements.\nStep 2: State the brute force solution out loud before optimizing.\nExplain the time and space complexity upfront.\nInterviewers want to see your analytical progression, not a memorized solution.\nStep 3: Categorize every problem into 1 of 14 core patterns.\nSliding window, two pointers, and binary search cover 80% of questions.\nOnce I stopped viewing each problem as unique, my prep speed tripled.\nStop memorizing code and start spotting recurring patterns.\nWhat pattern are you working on today?",
+    "engagement": 870,
+    "line_count": 12,
+    "language": "English",
+    "tags": [
+      "DSA Practice",
+      "Placements"
+    ]
+  },
+  {
+    "text": "I transformed my resume after getting 0 shortlists in the first 2 weeks of placements.\nHere are the 4 changes that took my callback rate from 0% to 35%:\n1. Replaced generic summaries with a one-line title.\nExample: 'Backend Systems & Distributed Systems Enthusiast'.\n2. Used the XYZ formula for every bullet point.\nAccomplished [X], as measured by [Y], by doing [Z].\n3. Removed outdated school achievements completely.\nReplaced them with system architecture links and live demos.\n4. Added a dedicated section for core CS fundamentals.\nOS, DBMS, Computer Networks, and System Design.\nRecruiters review hundreds of CVs every single hour.\nMake your impact obvious in the first 5 seconds of scanning.\nDoes your resume showcase metrics or just job duties?",
+    "engagement": 790,
+    "line_count": 13,
+    "language": "English",
+    "tags": [
+      "Resume Tips",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Building a full-stack project is only 40% of the job during college placements.\nThe remaining 60% is how you present and defend your engineering decisions.\nDuring my technical interview for an SDE role, the interviewer barely looked at the UI.\nInstead, we spent 25 minutes discussing architectural trade-offs:\nPoint 1: Why I chose PostgreSQL over MongoDB for transactional consistency.\nPoint 2: How Redis caching reduced my API latency from 280ms to 45ms.\nPoint 3: How I handled database connection pooling during traffic spikes.\nPoint 4: What trade-offs I made between horizontal scaling and infrastructure cost.\nPoint 5: How automated tests prevented regression during deployments.\nBuild with architectural intent, not just tutorial guidance.\nCan you defend every single package in your package.json?",
+    "engagement": 840,
+    "line_count": 11,
+    "language": "English",
+    "tags": [
+      "Placements",
+      "Projects"
+    ]
+  },
+  {
+    "text": "Off-campus internship hunt me 90% students blindly 'Easy Apply' click karte hain.\nMaine bhi 3rd year ke start me yahi galti ki thi aur weeks tak sirf rejection mails mile.\nFir maine apni complete outreach strategy badal di:\nStep 1: Wellfound pe early-stage startups filter kiye.\nTech stack mere core skills se match hona chahiye tha.\nStep 2: Unke existing product me 1 bug ya UI improvement dhoondha.\nStep 3: Ek 2-minute Loom video banaya explaining the issue and sharing my code fix.\nStep 4: Engineering lead ko LinkedIn pe brief message bheja with the video link.\nResult: 8 outreach attempts me se 4 direct technical interview calls aye.\nShow, don't tell, is the ultimate cheat code for off-campus hiring.\nAre you showing real proof of work in your job applications?",
+    "engagement": 650,
+    "line_count": 11,
+    "language": "Hinglish",
+    "tags": [
+      "Placements",
+      "Resume Tips"
+    ]
+  },
+  {
+    "text": "Resume banate waqt ye 4 common mistakes aapko shortlist hone se rok sakti hain.\nMaine khud ye galtiyaan ki thi aur juniors ke CV review karte waqt yahi notice karta hoon:\nPehli mistake: Rating your technical skills out of 5 stars.\nExample: Java 4/5, C++ 3/5 - ye completely subjective hota hai.\nDoosri mistake: 2-page resume banana jabki aap fresher ho.\nKeep it strictly 1 page with tight margins and clean spacing.\nTeesri mistake: GitHub profile link dena jisme saare repositories empty hain.\nSirf woh 2-3 repos highlight karo jisme clean code aur README ho.\nChauthi mistake: Grammar aur formatting inconsistencies jaise mismatched bullet fonts.\nClean formatting, verified project links, aur quantified achievements hi interview call dilate hain.\nReview your resume today before applying for the next drive!",
+    "engagement": 710,
+    "line_count": 11,
+    "language": "Hinglish",
+    "tags": [
+      "Resume Tips",
+      "Placements"
+    ]
+  },
+  {
+    "text": "How to survive placement anxiety when everyone around you seems to be getting placed:\nRule 1: Unfollow LinkedIn feeds for 2 hours after campus drive results are announced.\nRule 2: Remember that LinkedIn shows highlight reels, not the 50 rejections behind each post.\nRule 3: Keep a daily win journal for your progress.\nEven solving one tricky binary tree question counts as real progress.\nRule 4: Talk to friends about non-tech topics regularly.\nDon't make every conversation about CTC and compensation packages.\nRule 5: Trust the compound effect of your daily prep hours.\nYour worth as a software engineer is never defined by a single company's rejection.\nOne yes is all you need to change your career trajectory completely.\nTake a deep breath and keep pushing forward.",
+    "engagement": 620,
+    "line_count": 11,
+    "language": "English",
+    "tags": [
+      "Mental Health",
+      "Placements"
+    ]
+  },
+  {
+    "text": "Jab Day 1 placement drive me shortlist nahi hua, tab laga sab khatam ho gaya.\nSaare close friends celebrate kar rahe the aur main room me akele baith kar soch raha tha.\nUs raat maine khud se ek commitment kiya:\nGive up nahi karna hai, apni weak areas pe double time invest karna hai.\nAgla ek mahina maine System Design basics aur SQL queries pe intensely focus kiya.\nRoz subah 6 AM uth kar revisions kiye aur evening me problem sets solve kiye.\nMaine 15 mock interviews diye apne batchmates ke sath.\nDay 20 pe jab off-campus drive hui, I gave my most confident technical round ever.\nInterviewer ne mere depth of knowledge ko appreciate kiya.\nAur finally better package pe product company ka offer letter hath me tha.\nSetbacks are just setups for bigger comebacks if you refuse to quit.\nKeep grinding, your time will definitely come!",
+    "engagement": 880,
+    "line_count": 12,
+    "language": "Hinglish",
+    "tags": [
+      "Placements",
+      "Motivation"
+    ]
+  }
+]
